@@ -17,6 +17,6 @@ The `npm run cy:run` and `./node_modules/.bin/cypress run` options are also avai
 ## Test Maintenance
 The main test cases are kept in the `login.spec.js`, while the `fixtures` folder includes all the static test data.
 
-The login page object is the 'loginPage.js' file, found in the PageObject folder inside the integrations.
+The login page object is the `loginPage.js` file, found in the `PageObject` folder inside the integrations.
 
-The cypress.json is configured to retry failed test cases, and to block analytic scripts.
+The `cypress.json` is configured to retry failed test cases, and to block analytic scripts.
