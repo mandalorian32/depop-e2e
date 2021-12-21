@@ -1,4 +1,4 @@
-# Depop E2E EAutomation
+# Depop E2E Automation
 This is an E2E automation project for the Depop login page.
 
 The test cases focus on testing the calendar, event cards, filtering, searching and RSS capabilities of the project.
