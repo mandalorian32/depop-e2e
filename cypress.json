@@ -1,0 +1,16 @@
+{
+    "baseUrl": "https://www.depop.com/",
+    "projectId": "Depop E2E Automation",
+    "retries": 0,
+    "defaultCommandTimeout": 10000,
+    "responseTimeout": 60000,
+    "viewportHeight": 1024,
+    "viewportWidth": 1280,
+    "videoUploadOnPasses": false,
+    "numTestsKeptInMemory": 10,
+    "chromeWebSecurity": false,
+    "env": {
+        "username": "qatester1",
+        "password": "Qa12345678!@"
+      }
+   }
