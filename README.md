@@ -14,6 +14,8 @@ To install, simply run the following terminal command:
 You can start the graphical Cypress test runner with the `npx cypress open` command, or you can run in headless mode with the `npx cypress run` command.
 The `npm run cy:run` and `./node_modules/.bin/cypress run` options are also available.
 
+![Alt text](https://i.imgur.com/dmN68PK.png?raw=true "Login")
+
 ## Test Maintenance
 The main test cases are kept in the `login.spec.js`, while the `fixtures` folder includes all the static test data.
 
